@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string>
+        <id>1</id>
+        <name>Ali</name>
+        <sureName>khan</sureName>
+        <age>22</age>
+    </string>
+    <string>
+        <id>2</id>
+        <name>Jhon</name>
+        <sureName>Jhon doe</sureName>
+        <age>25</age>
+    </string>
+    <string>
+        <id>3</id>
+        <name>Ahmad</name>
+        <sureName>Ali</sureName>
+        <age>30</age>
+    </string>
+    <string>
+        <id>4</id>
+        <name>usman</name>
+        <sureName>Usman</sureName>
+        <age>20</age>
+    </string>
+    <string>
+        <id>5</id>
+        <name>Immad</name>
+        <sureName>hussain</sureName>
+        <age>18</age>
+    </string>
+
+</resources>

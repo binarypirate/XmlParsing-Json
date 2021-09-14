@@ -1,0 +1,2 @@
+rootProject.name = "XmlParsingJava"
+include ':app'
